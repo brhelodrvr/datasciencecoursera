@@ -1,0 +1,15 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$SelectAll" count="3" />
+      <entry action="EditorChooseLookupItemReplace" count="1" />
+      <entry action="EditorCopy" count="1" />
+      <entry action="EditorLeft" count="1" />
+      <entry action="EditorPaste" count="2" />
+      <entry action="ReformatCode" count="1" />
+      <entry action="SaveAll" count="1" />
+      <entry action="ShowLog" count="1" />
+      <entry action="TemplateProjectProperties" count="1" />
+    </counts>
+  </component>
+</application>
